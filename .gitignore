@@ -18,3 +18,4 @@ housing_search/tax_history.txt
 data/
 .idea/
 .data/
+mlruns/
